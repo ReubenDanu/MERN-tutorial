@@ -1,9 +1,0 @@
-Walkthrough to learn Node js
-1.Learn basic javascript ✅
-2.Understand what is Node js is, the usage etc
-3.Understand why it is called node
-4.Learn the concept of the event loop
-5.Learn the global variable
-6.Learn How to use the libraries
-7.Learn how to code with Node js
-8.Try to build backend without help framework
